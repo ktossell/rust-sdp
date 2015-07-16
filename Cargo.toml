@@ -1,0 +1,8 @@
+[package]
+
+name = "sdp"
+version = "0.0.1"
+authors = ["Ken Tossell <ken@tossell.net>"]
+
+#[dependencies]
+#regex = "*"
